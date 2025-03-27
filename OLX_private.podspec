@@ -1,6 +1,6 @@
 Pod::Spec.new do |s|
-  s.name             = 'MyprivatePod'
-  s.version          = '1.0.0'
+  s.name             = 'OLX_private'
+  s.version          = '1.0.1'
   s.summary          = 'A closed-source Swift CocoaPod'
   s.description      = 'This is a precompiled framework to protect the source code.'
   s.homepage      = 'https://cocoapods.org/pods/MyprivatePod'
